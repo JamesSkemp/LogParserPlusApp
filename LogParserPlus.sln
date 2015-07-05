@@ -1,14 +1,16 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogParserPlus", "LogParserPlus\LogParserPlus.csproj", "{116B8BE0-D264-4543-8C60-5EC8CFB43DD7}"
-EndProject
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code Style Enforcer", "Code Style Enforcer", "{DA87CFAA-D0F1-4D61-B723-6017047C347B}"
 	ProjectSection(SolutionItems) = preProject
 		D:\projects\Code Style Enforcer Rules\ImplementationRules.xml = D:\projects\Code Style Enforcer Rules\ImplementationRules.xml
 		D:\projects\Code Style Enforcer Rules\NameRules.xml = D:\projects\Code Style Enforcer Rules\NameRules.xml
 		D:\projects\Code Style Enforcer Rules\VisibilityRules.xml = D:\projects\Code Style Enforcer Rules\VisibilityRules.xml
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogParserPlus", "LogParserPlus\LogParserPlus.csproj", "{116B8BE0-D264-4543-8C60-5EC8CFB43DD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,7 +27,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		CodeStyleEnforcer_RulesLocation = 0
 		CodeStyleEnforcer_Active = -1
+		CodeStyleEnforcer_RulesLocation = 0
 	EndGlobalSection
 EndGlobal
