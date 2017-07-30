@@ -9,5 +9,5 @@ Find a number of queries you can run with Log Parser at [Log Parser Plus](http:/
 
 This project has rather effectively stalled, but feature and pull requests will be reviewed.
 
-- [Release notes for 0.3.x](http://strivinglife.com/words/Post/Log-Parser-Plus-version-03-released)
-- [Release notes for 0.2.1](http://strivinglife.com/words/Post/Log-Parser-Plus-version-021-released)
+- [Release notes for 0.3.x](http://words.strivinglife.com/post/log-parser-plus-version-03-released/)
+- [Release notes for 0.2.1](http://words.strivinglife.com/post/log-parser-plus-version-021-released/)
